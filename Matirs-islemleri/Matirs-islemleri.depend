@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1542114902 source:c:\users\emre ay\desktop\prolab\matirs-islemleri\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

@@ -1,0 +1,45 @@
+Schur Dosyasydyr
+Limit = 4 
+
+Limit = 13 
+
+Limit = 38 
+
+Limit = 54 
+
+Limit = 55 
+
+Limit = 59 
+
+Limit = 68 
+
+Limit = 104 
+
+Limit = 129 
+
+Limit = 165 
+
+Limit = 229 
+
+Limit = 245 
+
+Limit = 246 
+
+Limit = 250 
+
+Limit = 250 
+
+Limit = 259 
+
+Toplam = 0 
+
+Toplam = 0 
+
+Toplam = 0 
+
+Toplam = 0 
+
+
+toplam <= limson 
+
+Schur Teoremine Uygundur. 
